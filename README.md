@@ -1,4 +1,4 @@
-# AWS :disc:
+# AWS :cd: :floppy_disk:
 
 Setting up an EC2 server:
 - AMI - Ubuntu Server 18.04 LTS (HVM), SSD Volume Type
