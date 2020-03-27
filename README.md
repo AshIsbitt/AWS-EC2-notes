@@ -25,7 +25,7 @@ ssh -i <location of .pem> ubuntu@<ip>
 
 the <ip> referred to at the end is the IPv4 IP of the AWS machine.
 
-### Copying a file from your machine ontp the AWS machine
+### Copying a file from your machine onto the AWS machine
 ```bash
 scp -i path/to/key file/to/copy <user>@ec2-xx-xx-xxx-xxx:path/to/file
 ```
